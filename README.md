@@ -10,4 +10,4 @@ session, not here.
 ## The pipeline
 
 `.github/workflows/ci.yml` runs on every push and pull request. It looks
-like a completely normal build pipeline. It is not.
+like a completely normal build pipeline. It is not
